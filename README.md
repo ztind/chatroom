@@ -14,4 +14,4 @@ client1 send message to client2:<br/>
 127.0.0.1:55997#hello,i`m client1<br/>
 
 client2 send message to client1:<br/>
-127.0.0.1:55996#hello,i`m client1<br/>
+127.0.0.1:55996#hello,i`m client2<br/>
